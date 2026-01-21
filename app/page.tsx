@@ -240,14 +240,14 @@ export default function Home() {
                       <Smartphone className="text-brand-orange mt-1" />
                       <div>
                         <p className="font-bold text-sm text-gray-400 uppercase">WhatsApp / Celular</p>
-                        <p className="text-lg">+57 300 000 0000</p>
+                        <p className="text-lg">+57 300 190 3765</p>
                       </div>
                    </div>
                    <div className="flex items-start gap-4">
                       <Monitor className="text-brand-teal mt-1" />
                       <div>
                         <p className="font-bold text-sm text-gray-400 uppercase">Email</p>
-                        <p className="text-lg">contacto@amtech.com</p>
+                        <p className="text-lg">aymtech0408@gmail.com</p>
                       </div>
                    </div>
                  </div>
