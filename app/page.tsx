@@ -28,7 +28,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-20">
             {/* LOGO */}
             <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer">
-              <div className="relative w-40 h-12">
+              <div className="relative w-48 h-16 md:w-56 md:h-20">
                  {/* Asegúrate de guardar la imagen en la carpeta 'public' como logo.jpg */}
                  <Image 
                    src="/logo.jpg" 
@@ -205,7 +205,7 @@ export default function Home() {
               En un mercado saturado de agencias creativas que ignoran la técnica, y departamentos de sistemas que no entienden de ventas, <strong>A&M Tech nace para cerrar esa brecha.</strong>
             </p>
             <p>
-              Somos una alianza estratégica entre ingenieros y estrategas digitales en Cali. Creemos que la transformación digital real no es solo tener un Instagram bonito, sino contar con la infraestructura tecnológica que soporte ese crecimiento.
+              Somos una alianza estratégica entre profesional de TI y estratega digital en Cali. Creemos que la transformación digital real no es solo tener un Instagram bonito, sino contar con la infraestructura tecnológica que soporte ese crecimiento.
             </p>
             <p>
               Nuestro compromiso es simple: <strong>te damos la tranquilidad técnica</strong> para operar y las <strong>herramientas comerciales</strong> para vender. Sin intermediarios, sin excusas.
